@@ -89,6 +89,7 @@
   * [Assets Dashboard](using-kubecost/navigating-the-kubecost-ui/assets.md)
   * [Clusters Dashboard](using-kubecost/navigating-the-kubecost-ui/clusters-dashboard.md)
   * [Cloud Cost Explorer](using-kubecost/navigating-the-kubecost-ui/cloud-costs-explorer.md)
+  * [External Costs](using-kubecost/navigating-the-kubecost-ui/external-costs.md)
   * [Network Monitoring](using-kubecost/navigating-the-kubecost-ui/network-monitoring.md)
   * [Collections](using-kubecost/navigating-the-kubecost-ui/collections.md)
   * [Reports](using-kubecost/navigating-the-kubecost-ui/reports.md)
